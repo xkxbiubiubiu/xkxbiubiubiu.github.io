@@ -1,17 +1,17 @@
 ﻿# Site settings
-title: CodingWithAlice
-SEOTitle: CodingWithAlice Blog
+title: xkx | blog
+SEOTitle: xkx | Blog
 header-img: img/home.jpg
-email: hao_ling@foxmail.com
+email: 75554708@qq.com
 description: ""
-keyword: "CodingWithAlice"
-url: "https://CodingWithAlice.github.io"          # your host, for absolute URL
+keyword: "xkxbiubiubiu"
+url: "https://xkxbiubiubiu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/CodingWithAlice/CodingWithAlice.github.io.git" # you code repository
+github_repo: "https://github.com/xkxbiubiubiu/xkxbiubiubiu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "CodingWithAlice"
+sidebar-about-description: "xkx blog"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 #weibo_username:     phonetech
 #zhihu_username:     coding-zen
-github_username:    CodingWithAlice
+github_username:    xkxbiubiubiu
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   a8e6daf1aa23
 #juejin_username:   5922402b0ce46300695c3c6a
