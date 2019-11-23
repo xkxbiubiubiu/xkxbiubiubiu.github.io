@@ -1,8 +1,6 @@
 /* to make lines scroll instead of wrap */
 /* from http://stackoverflow.com/a/23393920 */
-body{
-  background: #ffbb606e;
-}
+
 .highlight pre code * {
   white-space: wrap;    // this sets all children inside to nowrap
 }
