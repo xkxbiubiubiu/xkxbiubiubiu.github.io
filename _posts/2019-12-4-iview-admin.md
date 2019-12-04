@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:    iview-admin[grid布局]
+title:    iview-admin
 subtitle:  
 date:       2019-12-4
 author:     
